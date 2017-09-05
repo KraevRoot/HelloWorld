@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Hello world
+## Notes: First WoW addon
+## Author: Krayeu Uladzislau
+## Version: 0.1
+
+HelloWorld.lua
